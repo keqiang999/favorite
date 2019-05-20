@@ -27,3 +27,6 @@ http://www.vjong.com/html/class1_1.html
 
 coin
 https://dominicpoi.com/2019/03/30/JAVA-chainBlock-02/
+
+deep
+https://www.open-open.com/news/?page=3
